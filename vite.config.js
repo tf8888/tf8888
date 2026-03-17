@@ -26,7 +26,7 @@ export default {
     [
         wasm(),
         topLevelAwait(),
-        restart({ restart: [ '../static/**', ] }), // Restart server on static file change
+        restart({ restart: [ '../static/**', 'my.config.[jt]s', ] }), // Restart server on static file change
         nodePolyfills(),
         // basicSsl()
     ]
