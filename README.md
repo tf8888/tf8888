@@ -1,15 +1,3 @@
-</td>
-
-<td width="42%" align="center">
-
-<img width="960" height="960" alt="Image" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
-
-
-</td>
-
-</tr>
-</table>
-
 <!-- ========================================================= -->
 
 <!--                    TECHNOLOGY MATRIX                      -->
